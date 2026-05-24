@@ -20,6 +20,7 @@ O projeto utiliza dados da pesquisa suplementar PNAD 2014 (IBGE) sobre Educaçã
 Abaixo está o fluxo detalhado das etapas do nosso processamento de dados (ETL):
 
 ![fluxograma](docs/escopo-1/AE1/imagens-kanban_e_digrama/diagrama.drawio.png)
+https://drive.google.com/file/d/1Os8qotCLdyhJQgHWvCH-_Itqn0AZSgjf/view?usp=sharing
 
 ## ⩥ Gestão Ágil (Kanban)
 O acompanhamento de entregas, EAP e mitigação de riscos está sendo gerido via Trello. Segue o registro do board atual:
