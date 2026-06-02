@@ -29,10 +29,30 @@ O acompanhamento de entregas, EAP e mitigação de riscos está sendo gerido via
 https://trello.com/invite/b/6a0f0536261037067da72fe3/ATTI181a38c54d26145b37073634376d658f4B595489/pi-extensionista-cd1
 Data: 20/05 a 27/05
 
+## ⩥ Arquitetura e Desenho da Solução
+Durante a segunda etapa do projeto, definimos as regras de negócio e a modelagem dos dados:
+
+* **Dicionário de Dados & Qualidade:** Regras de limpeza, tratamento de nulos e de outliers mapeadas para execução via Pandas.
+
+* **Modelo Lógico:** Estruturação no MySQL utilizando Star Schema, com uma Tabela Fato (Fato_Qualificacao) e dimensões sociodemográficas e de motivos de evasão.
+
+* **Visualização:** Wireframe desenhado focando na jornada do usuário para o Dashboard.
+  ![Modelo Lógico do banco de dados](docs/escopo-1/AE2/Diagrama-modelo-logico.drawio.png)
+
 ## ⩥ Escopo e Entregas (Fase 1)
 - [x] Termo de Abertura e Briefing.
 - [x] Definição das Perguntas Analíticas e KPIs.
 - [x] EAP, Matriz de Riscos e Cronograma.
 - [x] Estruturação inicial do GitHub.
+ 
+## ⩥ Fase 2 - Desenho da Solução
 
+- [x] Dicionário de Dados (versão 1).
 
+- [x] Modelo Lógico (Diagrama de tabelas e relacionamentos).
+
+- [x] Plano de Qualidade de Dados (Checagens Python/MySQL).
+
+- [x] Plano de Análise e Esboço (Wireframe) do Dashboard.
+
+- [x] Criação de Issues (tarefas de desenvolvimento) no GitHub.
