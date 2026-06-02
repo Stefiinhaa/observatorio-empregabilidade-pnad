@@ -27,6 +27,7 @@ O acompanhamento de entregas, EAP e mitigação de riscos está sendo gerido via
 
 ![kanban](docs/escopo-1/AE1/imagens-kanban_e_digrama/kanban-trello.png)
 https://trello.com/invite/b/6a0f0536261037067da72fe3/ATTI181a38c54d26145b37073634376d658f4B595489/pi-extensionista-cd1
+Data: 20/05 a 27/05
 
 ## ⩥ Escopo e Entregas (Fase 1)
 - [x] Termo de Abertura e Briefing.
