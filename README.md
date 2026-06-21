@@ -52,7 +52,7 @@ Nesta etapa final, realizamos o desenvolvimento técnico do pipeline completo, d
 
 * **Dataviz, UI e UX (Power BI):**
   * Conexão direta com a base MySQL e estabelecimento automático de relacionamentos entre Fato e Dimensões.
-  * O painel foi projetado com forte viés de UI/UX, assemelhando-se a uma aplicação web. Utilizamos a paleta de cores institucional (com forte destaque para o `#b20000`) guiando a hierarquia visual.
+  * O painel foi projetado com forte viés de UI/UX, assemelhando-se a uma aplicação web. Utilizando a paleta de cores institucional guiando a hierarquia visual.
   * **Métricas Apresentadas:** Cartões de KPI dinâmicos, ranking de evasão, distribuição demográfica por gênero e faixa etária, além do impacto financeiro detalhando a renda média por grupos, tudo integrado por segmentadores de dados dinâmicos em blocos.
 
   ![Dashboard Finalizado no Power BI](caminho-da-sua-imagem-do-dashboard.png)
