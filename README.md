@@ -69,6 +69,7 @@ observatorio-empregabilidade-pnad/
 │   └── python/              # Scripts de Engenharia de Dados (detetive_dicionario.py, etl_pnad.py)
 ├── dashboard/               # Arquivo Power BI (.pbix) e prints do painel
 └── README.md
+```
 ## ⩥ Guia de Reprodução (Passo a Passo)
 Siga as instruções abaixo para recriar o pipeline de dados e visualizar o dashboard localmente.
 
