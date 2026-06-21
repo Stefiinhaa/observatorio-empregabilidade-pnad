@@ -55,7 +55,7 @@ Nesta etapa final, realizamos o desenvolvimento técnico do pipeline completo, d
   * O painel foi projetado com forte viés de UI/UX, assemelhando-se a uma aplicação web. Utilizando a paleta de cores institucional guiando a hierarquia visual.
   * **Métricas Apresentadas:** Cartões de KPI dinâmicos, ranking de evasão, distribuição demográfica por gênero e faixa etária, além do impacto financeiro detalhando a renda média por grupos, tudo integrado por segmentadores de dados dinâmicos em blocos.
 
-  ![Dashboard Finalizado no Power BI](caminho-da-sua-imagem-do-dashboard.png)
+  ![Dashboard Finalizado no Power BI](dashboard/img-dashboard.png)
 
 ## ⩥ Escopo e Entregas (Fase 1)
 - [x] Termo de Abertura e Briefing.
